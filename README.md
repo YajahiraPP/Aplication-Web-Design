@@ -12,3 +12,6 @@
 - **Profesor** [Fernando Sañudo Betancourt]
 
 
+## USOS DEL MARKDOWN
+
+- Markdown sirve para dar formato a textos planos de forma rápida, sencilla y legible, permitiendo estructurar documentos (negritas, listas, enlaces) sin usar editores complejos. Su principal utilidad es la creación de contenido web, documentación técnica, notas y archivos técnicos (.md) que se convierten fácilmente a HTML.s
